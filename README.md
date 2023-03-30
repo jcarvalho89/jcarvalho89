@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @jcarvalho89
-- 🌱 I’m currently learning micro-services and software architecture, php, golang, javascript, websockets, bots and high performance applications.
+- 👋 Hi, I’m Josiano Carvalho
+
+- 🌱 I have good knowledge of microservices, software architecture, php, javascript, websockets, bots, and high-performance applications. Also, I am starting with golang.
+
 - 📫 How to reach out me:
   - https://www.linkedin.com/in/josianocarvalho/?locale=en_US
 
